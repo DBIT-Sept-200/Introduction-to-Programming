@@ -1,2 +1,4 @@
-# Introduction-to-Programming
+# DBIT Sept 2020
+
+## Introduction to Programming
 Introduction to C++
